@@ -13,8 +13,6 @@
 
 Smart Study Notes Assistant is an AI-powered academic tool built for students who want to study smarter, not harder. Upload any study material — PDF or TXT — and instantly get structured summaries, ask questions in a conversational chat, generate MCQ quizzes, and receive a personalised day-by-day study plan.
 
-Built using **Groq (LLaMA 3.3 70B)** for blazing fast inference and **Gradio** for a clean, interactive UI — runs entirely inside **Google Colab**, no setup required.
-
 ---
 
 ## 🚀 Features
@@ -50,7 +48,7 @@ Built using **Groq (LLaMA 3.3 70B)** for blazing fast inference and **Gradio** f
 
 ## 🛠️ Tech Stack
 
-- **LLM:** Groq API — LLaMA 3.3 70B Versatile
+- **LLM:** open AI 
 - **UI:** Gradio 5 with custom CSS dark theme
 - **File Parsing:** PyMuPDF (PDF) + plain text reader
 - **Runtime:** Google Colab
