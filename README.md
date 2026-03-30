@@ -4,9 +4,7 @@
 # 📚 Smart Study Notes Assistant
 
 > Upload your notes. Ask questions. Quiz yourself. Get a study plan. All powered by AI.
-
-![Banner](screenshots/banner.png)
-
+![Upload](upload.png)
 ---
 
 ## 🌟 Overview
@@ -30,19 +28,19 @@ Smart Study Notes Assistant is an AI-powered academic tool built for students wh
 ## 📸 Screenshots
 
 ### Upload Notes
-![Upload](screenshots/upload.png)
+![Upload](upload.png)
 
 ### Smart Summary
-![Summary](screenshots/summary.png)
+![Summary](summary.png)
 
 ### Q&A Chat
-![QnA](screenshots/qna.png)
+![QnA](qna.png)
 
 ### Quiz
-![Quiz](screenshots/quiz.png)
+![Quiz](quiz.png)
 
 ### Study Plan
-![Plan](screenshots/studyplan.png)
+![Plan](studyplan.png)
 
 ---
 
