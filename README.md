@@ -31,7 +31,7 @@ Smart Study Notes Assistant is an AI-powered academic tool built for students wh
 ![Upload](upload.png)
 
 ### Smart Summary
-![Summary](summary.png)
+![Summary](sunmary.png)
 
 ### Q&A Chat
 ![QnA](qna.png)
